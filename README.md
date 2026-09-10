@@ -1,66 +1,117 @@
-# Sarah Abdelgilil
+Sarah Abdelgilil
 
-## Data Analysis Portfolio
+Data Analysis Portfolio
 
 Welcome to my Data Analysis Portfolio.
 
 Here, you can explore my projects in data visualization, business analysis, and data-driven insights.
 
-## Projects
+---
 
-### 1. Sales & Business Performance Dashboard – Power BI
+Projects
+
+1. Sales & Business Performance Dashboard – Power BI
 
 An interactive Power BI dashboard designed to analyze business performance from different perspectives.
 
-### CEO Dashboard
+---
 
-This page provides a high-level overview of business performance to support executive decision-making, including:
+CEO PAGE
+
+Image: CEOPAGE.jpeg
+
+This page provides a high-level overview of business performance to support executive decision-making.
+
+Key Insights
 
 - Sales by Store Type
-- Sum of Quantity by Category
-- Total Profit by Country
-- Key Business Performance Indicators
+- Sum of Quantity by Store Type
+- Sales by Region
+- Product Performance
+- Customer Analysis
+- Overall Business KPIs
 
-![CEO Dashboard](CEO%20PAGE.png)
+"CEO PAGE" (CEOPAGE.jpeg)
 
-### Operations Dashboard
+---
 
-This page provides an overview of operational performance, including:
+FINANCIAL PAGE
 
-- Total Profit
-- Orders by Category
-- Total Orders by Region
-- Total Orders by Store Type
-- Sales Performance by Customer Segment
+Image: FINANCIALPAGE.jpeg
 
-![Operational Dashboard](OPERATIONAL%20PAGE.png)
+This page focuses on the financial performance of the business and provides insights into revenue, sales, discounts, and profitability.
 
-### Financial Dashboard
+Key Insights
 
-This page focuses on the company's financial performance, including:
+- Total Revenue
+- Sales Performance
+- Revenue by Product Category
+- Revenue by Store Type
+- Discount Analysis
+- Financial KPIs
 
-- Total Sales
-- Total Costs
-- Discount Value
-- Total Profit
-- Total Orders
+"FINANCIAL PAGE" (FINANCIALPAGE.jpeg)
 
-![Financial Dashboard](FINANCIAL%20PAGE.png)
+---
 
-## Tools & Technologies
+OPERATIONS PAGE
 
-- Microsoft Power BI
+Image: OPERATIONSPAGE.jpeg
+
+This page focuses on operational performance and helps identify trends across stores, products, regions, and sales activities.
+
+Key Insights
+
+- Sales by Store
+- Sales by Region
+- Product Performance
+- Quantity Sold
+- Order Status
+- Return Analysis
+- Store Type Performance
+
+"OPERATIONS PAGE" (OPERATIONSPAGE.jpeg)
+
+---
+
+Tools & Technologies
+
+- Power BI
 - Power Query
 - DAX
-- Data Cleaning & Transformation
+- Microsoft Excel
+- Data Cleaning
+- Data Transformation
 - Data Visualization
+- Business Analysis
 
-## Key Skills Demonstrated
+---
+
+Skills Demonstrated
 
 - Data Cleaning and Transformation
 - Data Modeling
+- Creating Relationships Between Tables
 - DAX Measures
-- KPI Development
-- Interactive Dashboard Design
-- Business Performance Analysis
+- Business Analysis
+- Interactive Dashboard Development
 - Data Visualization
+- Business Insights
+
+---
+
+About Me
+
+I am an HR Generalist with a growing specialization in Data Analysis.
+
+I am currently developing my skills in Power BI, Excel, SQL, and Python, with an interest in using data to support business and strategic decision-making.
+
+My background in HR combined with data analysis allows me to approach business problems from both a people and data perspective.
+
+---
+
+Contact
+
+Sarah Abdelgilil
+
+HR Generalist | Data Analyst
